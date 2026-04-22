@@ -16,8 +16,14 @@ O progama sera desenvolvido usando a linguagem Java e funcionando por comandos d
 Este trabalho e o projeto final da disciplina de Programacao de Solucoes Computacionais do curso de Sistemas de Informacao no UniBH, sob orientacao do professor Alexandre Montanha de Oliveira.
 # Integrantes do grupo
 Filipe
+
 Luca Barbosa Rodrigues
+
 Lucas
+
 Luciano Mendes de Oliveira Gratarolli
+
 Luiz Gustavo Soares Moreira
+
 Nicolas
+
