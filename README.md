@@ -19,7 +19,7 @@ Fillipe Símei Souza Ribeiro
 
 Luca Barbosa Rodrigues
 
-Lucas
+Lucas Lima Silva de Paula
 
 Luciano Mendes de Oliveira Gratarolli
 
