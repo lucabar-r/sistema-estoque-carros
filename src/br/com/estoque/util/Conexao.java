@@ -15,7 +15,7 @@ public class Conexao {
                                        + "?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String USUARIO = "root";
     private static final String SENHA   = "montanha";   //Senha  
-    private Conexao() {}   // impede instanciação
+    private Conexao() {}   // impede instanciação.
 
     /*
      Retorna uma nova conexão com o banco.
